@@ -8,5 +8,6 @@ namespace test1
 {
     class Class1
     {
+        int name { get; set; }
     }
 }
